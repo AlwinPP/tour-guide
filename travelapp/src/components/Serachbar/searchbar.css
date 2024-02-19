@@ -1,0 +1,44 @@
+.form {
+  display: flex;
+  align-items: center;
+  gap: 4;
+}
+
+.form_group {
+  display: flex;
+  gap: 3;
+}
+.search_bar {
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  box-shadow: black 0px 48px 100px 0px;
+  width: max-content;
+  margin-top: 50px;
+}
+.form_group span {
+  font-size: 1.8rem;
+  color: orange;
+}
+.form_group input {
+  border: none;
+  font-size: 0.9rem;
+  color: orange;
+  font: weight 500px;
+}
+.form_group input:focus {
+  outline: none;
+}
+.form_group h6 {
+  margin-bottom: 0;
+}
+.form_group-fast {
+  border-right: 2px solid #ddd;
+}
+.search_icon i {
+  font-size: 30px;
+  padding: 0.5rem;
+  background: orange;
+  color: white;
+  border-radius: 10px 5px 10px 5px;
+  cursor: pointer;
+}

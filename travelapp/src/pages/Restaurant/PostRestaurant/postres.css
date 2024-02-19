@@ -1,0 +1,38 @@
+.post-restaurant {
+  margin: 30px;
+}
+
+.restaurant-form {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.restaurant-form-L {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 50%;
+}
+
+.restaurant-form-R {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 50%;
+}
+.restaurant-input {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 10px;
+}
+.btn-display {
+  display: flex;
+  align-items: end;
+  margin-top: 100px;
+}
+.upload-image {
+  border: 1px solid black;
+  border-radius: 5px;
+}

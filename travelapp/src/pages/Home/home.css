@@ -1,0 +1,91 @@
+.home1 {
+  padding: 0 80px;
+}
+.hero_subtitle {
+  display: flex;
+  align-items: center;
+}
+.hero_subtitle img {
+  width: 90px;
+  height: 90px;
+}
+.flex {
+  display: flex;
+}
+.img-flex {
+  display: flex;
+  gap: 20px;
+}
+.hero_content h1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.hero_content h1 .highlight {
+  color: orange;
+}
+.hero_content p {
+  font-size: 1.1rem;
+  color: grey;
+  line-height: 2rem;
+}
+.hero_img-box img,
+.hero_img-box video {
+  width: 100%;
+  height: 350px;
+  border-radius: 20px;
+  border: 1px solid white;
+  object-fit: cover;
+}
+.hero_content {
+  padding-top: 3.5rem;
+}
+.hero_img-box {
+  padding-top: 2rem;
+}
+.mgtop {
+  margin-top: 20px;
+}
+.mgtop1 {
+  margin-top: 40px;
+}
+/* ------------- */
+.tour-feature {
+  margin-top: 40px;
+}
+
+/* ------------- */
+
+.service {
+  margin-top: 80px;
+
+  display: flex;
+  width: 100%;
+  height: 100px;
+  gap: 20px;
+}
+
+.service_subtitle {
+  font-size: 30px;
+  font-weight: 500;
+  color: #ee6e6e;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.service_title {
+  font-size: 30px;
+  font-weight: 500;
+  width: 400px;
+}
+.service_card {
+  height: 50px;
+}
+.card_img {
+  background-color: orange;
+  height: 150px;
+}
+
+/* ------------- */
+.experience_content {
+  margin-top: 250px;
+}

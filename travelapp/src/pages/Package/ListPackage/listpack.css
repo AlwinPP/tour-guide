@@ -1,0 +1,20 @@
+.list-travelPackage {
+  margin: 40px 70px;
+}
+
+.table-div {
+  margin-top: 50px;
+}
+
+.table-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.add-travelPackage {
+  margin-top: 30px;
+  display: flex;
+  justify-content: end;
+}
